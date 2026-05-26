@@ -2,6 +2,9 @@ I'm Chibuzo Nwosu, a freelance Data Analyst and Business Intelligence developer 
 I work independently with clients and organisations to deliver end-to-end analytics solutions: from data cleaning and SQL querying, to fully interactive Power BI and Tableau dashboards.
 
 📍 Location: Enugu State, Nigeria
+
 💼 Status: Available for freelance & remote projects
+
 🎓 Education: B.Sc. Business Administration
+
 📬 Contact: chibuzonwosu8@gmail.com
